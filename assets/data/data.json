@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Ecolink vayu",
+    "img": "fan_vayu.png",
+    "category": "fan",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "price": "1500.00",
+    "discount":"25%"
+  },
+  {
+    "name": "Ecolink Cosmo",
+    "img": "  .png",
+    "category": "fan"
+  },
+  {
+    "name": "Ecolink Celetia",
+    "img": "fan_Celetia.png",
+    "category": "fan"
+  },
+  {
+    "name": "Crown LED",
+    "img": "Crown_LED.png",
+    "category": "LED"
+  },
+  {
+    "name": "Crown Classic 8.5T",
+    "img": "Crown_Classic 8.5T.png",
+    "category": "Washing Machine"
+  },
+  {
+    "name": "Crown Classic 9T",
+    "img": "Crown_Classic 9T.png",
+    "category": "Washing Machine"
+  },
+  {
+    "name": "Crown Cooler",
+    "img": "Crown_Cooler.png",
+    "category": "fan"
+  },
+  {
+    "name": "Crown CIR 008",
+    "img": "Crown_CIR 008.png",
+    "category": "Appliances"
+  },
+  {
+    "name": "Ecolink 9W Led bulb",
+    "img": "Ecolink_9W LED.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 12W led bulb",
+    "img": "Ecolink_12W LED.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 2W step light",
+    "img": "Ecolink_2w step.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 10w Downlighter",
+    "img": "Ecolink_10w Downlighter.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 5W JB conceal light",
+    "img": "Ecolink_5W JB conceal light.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 9W JB conceal light",
+    "img": "Ecolink_9W JB conceal light.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Mccoy Star Mg ",
+    "img": "Mccoy_star.png",
+    "category": "Appliances"
+  },
+  {
+    "name": "Mccoy Aura Mg ",
+    "img": "Mccoy_Aura Mg.png",
+    "category": "Appliances"
+  },
+  {
+    "name": "Mccoy Comfort JMG",
+    "img": "Mccoy_Comfort JMG.png",
+    "category": "Appliances"
+  },
+  {
+    "name": "Mccoy Bero 25",
+    "img": "Mccoy_Bero 25.png",
+    "category": "Appliances"
+  },
+  {
+    "name": "Mccoy Bero 15",
+    "img": "Mccoy_Bero 15.png",
+    "category": "Appliances"
+  },
+  {
+    "name": "Ecolink 7W COB CDL",
+    "img": "Ecolink_7W COB CDL.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 12W Surface Spot light WW White",
+    "img": "Ecolink_12W Surface Spot light WW White.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 0.5W Led bulb white",
+    "img": "Ecolink_0.5W Led bulb white.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 0.5W Led bulb pink",
+    "img": "Ecolink_0.5W Led bulb pink.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 0.5W Led bulb red",
+    "img": "Ecolink_0.5W Led bulb red.png",
+    "category": "Lighting"
+  },
+  {
+    "name": "Ecolink 0.5W Led bulb blue",
+    "img": "Ecolink_0.5W Led bulb blue.png",
+    "category": "Lighting"
+  }
+]

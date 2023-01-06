@@ -1,0 +1,252 @@
+[
+    {
+      "name": "Ecolink vayu",
+      "img": "fan_vayu.jpg",
+      "category": "fan",
+      "price": "1390.00",
+      "mrp": "2100.00",
+      "city": "Rudrapur",
+      "description": "* High Speed Ceiling Fan With 400 RPM For Superior Performance * Powerful Motor With High-Quality Full Copper Winding* Double Ball Bearings To Ensure Longevity And Minimum Maintenance Air Delivery: 200 m3/min* Inverter Compatible* Warranty: 2 year onsite warranty provided from date of purchase",
+      "brand": "Ecolink"
+    },
+    {
+      "name": "Ecolink Cosmo",
+      "img": "fan_Cosmo.jpg",
+      "category": "fan",
+      "price": "2000.00",
+      "mrp": "2650.00",
+      "city": "Rudrapur",
+      "description": "Improved aesthetics:  high speed decorative ceiling fan with 400 rpm for superior performance Technical specifications: sweep 1200 mm; power consumption 75 w; speed 400 rpm; air delivery 210 m3/min Long lasting: double ball bearings to ensure longevity and minimum maintenance as dust does not stick to the surface easily Warranty: 2 year onsite warranty provided from date of purchase",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink Celetia",
+      "img": "fan_Celetia.jpg",
+      "category": "fan",
+      "price": "2100.00",
+      "mrp": "2990.00",
+      "city": "Rudrapur",
+      "description": "*High Speed Decorative Ceiling Fan With 380 RPM For Superior Performance *Powerful Motor With High-Quality 100% Copper Winding *Double Ball Bearings To Ensure Longevity And Minimum Maintenance *Air Delivery: 220 m3/min *Easy Clean Technology - Dust Does Not Stick To The Surface Easily *Warranty: 2 year onsite warranty provided from date of purchase",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Crown Eco 32s LED",
+      "img": "Crown_LED.webp",
+      "category": "LED",
+      "price": "10000.00",
+      "mrp": "14999.00",
+      "city": "Rudrapur",
+      "description": "Resolution: Full HD (1920 x 1080p) | Refresh Rate: 90Hz Connectivity: 2 HDMI Ports to connect set top box, Blu Ray players, gaming console | 2 USB Ports to connect hard drives and other USB devices | 1 VGA Slot to connect your Laptop/PC | 1 Headphone Jack | 3 AV Input Slots | 3 AV Output Slots | 1 RF Slot Sound: 20 Watts Output | Dolby Audio Display: A+ Grade Panel | 178 Degree Viewing Angle | Dot Noise Reduction | Reduced Motion Blur Smart TV Features: Linux OS | In-Built Wi-Fi | 512MB RAM | 4GB ROM Warranty: 1 Year Standard Manufacturer Warranty From Crown Easy Returns: This Product Is Eligible For Replacement Within 10 Days Of Delivery In Case Of Any Product Defects, Damage Or Features Not Matching The  Provided Warante: one year onsite with free installation",
+      "company": "Crown"
+    },
+    {
+      "name": "Crown Classic 8.5T",
+      "img": "Crown_Classic 8.5T.webp",
+      "category": "Washing Machine",
+      "price": "12000.00",
+      "mrp": "17900.00",
+      "city": "rudrapur",
+      "description": "Semi-automatic top-loading washing machine; 8.5 kg Energy Rating: 5 Star Warranty: 2 years on product, 5 years on motor Semi-automatic washing machines Capacity 8.5 kg: Suitable for families with 4 to 5 members Special features: hexa Storm pulsator, magic filter, spin timer Pulsator, air turbo, super dry, 3 wash programs, soak",
+      "company": "Crown"
+    },
+    {
+      "name": "Crown Classic 9T",
+      "img": "Crown_Classic 9T.png",
+      "category": "Washing Machine",
+      "price": "12500.00",
+      "mrp": "19000.00",
+      "city": "rudrapur",
+      "description": "Semi-automatic top-loading washing machine; 9 kg Energy Rating: 5 Star Warranty: 2 years on product, 5 years on motor Semi-automatic washing machines Capacity 9 kg: Suitable for families with 4 to 5 members Special features: hexa Storm pulsator, magic filter, spin timer Pulsator, air turbo, super dry, 3 wash programs, soak",
+      "company": "Crown"
+    },
+    {
+      "name": "Crown Cooler",
+      "img": "Crown_Cooler.jpg",
+      "category": "fan",
+      "price": "8000.00",
+      "mrp": "5999.00",
+      "city": "Rudrapur",
+      "description": "50-Litre Water Tank Anti-bacterial Honeycomb pads Turbo Fan technology with 30-feet Air throw Superior Air Delivery of 4500 CMH (avg) Warranty - 1 year",
+      "company": "Crown"
+    },
+    {
+      "name": "Crown CIR 008",
+      "img": "Crown_CIR 008.jpg",
+      "category": "Appliances",
+      "price": "6999.00",
+      "mrp": "9000.00",
+      "city": "Rudrapur",
+      "description": "V-shape sound signature for Fun listening experience.Optical IN, Bluetooth 5.0, USB, FM, Aux for multiple connectivity options. Covers up to 200 sq.ft of Closed rooms with good acoustics. Bass-Treble control to match your listening taste. Deep bass with clear vocals.",
+      "company": "Crown"
+    },
+    {
+      "name": "Ecolink 9W Led bulb",
+      "img": "Ecolink_9W LED.webp",
+      "category": "Lighting",
+      "price": "99.00",
+      "mrp": "149.00",
+      "city": "rudrapur",
+      "description": "Ecolink Light Type LED Special Feature Energy Efficient Wattage 9 Watts Bulb Shape Size B11 Bulb Base B22D Specific Uses For Product Photography Light Colour Cool Daylight Net Quantity 1.0 count Colour Temperature 6500 Kelvin",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 12W led bulb",
+      "img": "Ecolink_12W LED.webp",
+      "category": "Lighting",
+      "price": "170.00",
+      "mrp": "250.00",
+      "city": "rudrapur",
+      "description": "Ecolink Light Type LED Special Feature Energy Efficient Wattage 9 Watt Bulb Shape Size B11 Bulb Base B22D Specific Uses For Product Photography Light Colour Cool Daylight Net Quantity 1.0 count Colour Temperature 6500 Kelvin",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 2W step light",
+      "img": "Ecolink_2w step.jpg",
+      "category": "Lighting",
+      "price": "550.00",
+      "mrp": "780.00",
+      "city": "rudrapur",
+      "description": "Features: 1-High quality: made up of high quality aluminum, good for heat-releasing; 2-Easy for installation and maintenance. 3-Black with metal spring. Color :- warm white Compliance to stringent quality norms, dual shutter mechanism for easy and better fitment High lumen output with low power consumption leds for long life Wide and flat switch knob for easy operation FR grade aluminium with high impact resistance, shock proof and UV rays stabilized",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 10w Downlighter",
+      "img": "Ecolink_10w Downlighter.jpg",
+      "category": "Lighting",
+      "price": "450.00",
+      "mrp": "750.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 5W JB conceal light",
+      "img": "Ecolink_5W JB conceal light.jpg",
+      "category": "Lighting",
+      "price": "160.00",
+      "mrp": "400.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 9W JB conceal light",
+      "img": "Ecolink_9W JB conceal light.png",
+      "category": "Lighting",
+      "price": "200.00",
+      "mrp": "620.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Mccoy Star Mg ",
+      "img": "Mccoy_star.jpg",
+      "category": "Appliances",
+      "price": "2050.00",
+      "mrp": "2500.00",
+      "city": "rudrapur",
+      "description": "Wattage: 500 W | 3 Different Speed For Variable Function with incher for Momentary Operation- | Variomatic Tri Control Ergonomically designed SS Jar with Flow Breaker for Efficient Grinding | Sturdy Stainless Steel 3 Jars | Grinding, Liquidizing, Chutney Making |Food Grade High Impact ABS plastic body Jar Capacity: 1.1 Litre Liquidizing Jar, 0.8 Litre Dry Jar, 0.3 Litre Chutney Jar - Nylon Jar Base -Long Lasting Efficient Grinding | High Quality Stainless Steel Jars Tri Screw Technology Unique Corrosion & Trouble Free Fitment 2 Years Warranty Against Manufacturing Defect.",
+      "company": "Mccoy"
+    },
+    {
+      "name": "Mccoy Aura Mg ",
+      "img": "Mccoy_Aura Mg.jpg",
+      "category": "Appliances",
+      "price": "3000.00",
+      "mrp": "4000.00",
+      "city": "rudrapur",
+      "description": "Wattage: 750 W | 3 Different Speed For Variable Function-Sturdy Stainless Steel 3 Jars - Wet and Dry Grinding, Liquidizing, Chutney Making | Strong Blades Jar Capacity: 1.5 Litre Liquidizing Jar, 1.0 Litre Dry Jar, 0.4 Litre Chutney Jar - Nylon Jar Base -Long Lasting Efficient Grinding | High Quality Stainless Steel Jars | Nylon Jar Base for Long Lasting and Hygenic Food Grade ABS Body | Tri Screw Technology Unique Corrosion & Trouble Free Fitment 2 Years Warranty Against Manufacturing Defect",
+      "company": "Mccoy"
+    },
+    {
+      "name": "Mccoy Comfort JMG",
+      "img": "Mccoy_Comfort JMG.jpg",
+      "category": "Appliances",
+      "price": "2300.00",
+      "mrp": "2800.00",
+      "city": "rudrapur",
+      "description": "Wattage: 450 W | Unique Micro Mesh Filter for Maximum Juice Extraction. Powerful Motor for Juicing, pureeing and mixing | 2 Variable Speed with Incher | Protection against Overload, Separate Pulp Collector. Compact Design for LESS storage space | 1.5L Blender Jar + 0.8 L Dry/Wet Grinder Jar 2 Years Warranty Against Manufacturing Defect. Customer Care No.: 1800 22 0276 (Toll Free Number) customercare@mccoyindia.in Monday to Saturday (10 AM - 7 PM) except public/national holidays.",
+      "company": "McCoy"
+    },
+    {
+      "name": "Mccoy Bero 25",
+      "img": "Mccoy_Bero 25.jpg",
+      "category": "Appliances",
+      "price": "7200.00",
+      "mrp": "13590.00",
+      "city": "rudrapur",
+      "description": "Type: Storage ; Capacity: 25 Litres; Wattage: 2000 Watts; Pressure: 8 Bars ; BEE Rating: 4 Star; Inner Tank Material: Blue Diamond Glass Lined Tank- 2X Corrosion Resistance; Outer Body Material: Metal Product Dimensions: 44.1 cms X 33.8 cms X 33.8 cms Warranty: 7 years on inner tank, 2+1* years extended warranty on glass coated heating element and 2 years comprehensive Included in the box: 1 Vertical Storage Water Heater, User Manual , Mounting Screws Blue Diamond Glass-Lined Tank for 2X corrosion resistance Glass-Coated Heating Element to prevent scale formation and extend the life of heating element",
+      "company": "Mccoy"
+    },
+    {
+      "name": "Mccoy Bero 15",
+      "img": "Mccoy_Bero 15.webp",
+      "category": "Appliances",
+      "price": "6200.00",
+      "mrp": "11990.00",
+      "city": "rudrapur",
+      "description": "Type: Storage ; Capacity: 15 Litres; Wattage: 2000 Watts; Pressure: 8 Bars ; BEE Rating: 5 Star; Inner Tank Material: Blue Diamond Glass Lined Tank- 2X Corrosion Resistance; Outer Body Material: Metal Product Dimensions: 44.1 cms X 33.8 cms X 33.8 cms Warranty: 7 years on inner tank, 2+1* years extended warranty on glass coated heating element and 2 years comprehensive Included in the box: 1 Vertical Storage Water Heater, User Manual , Mounting Screws Blue Diamond Glass-Lined Tank for 2X corrosion resistance Glass-Coated Heating Element to prevent scale formation and extend the life of heating element",
+      "company": "Mccoy"
+    },
+    {
+      "name": "Ecolink 7W COB CDL",
+      "img": "Ecolink_7W COB CDL.jpg",
+      "category": "Lighting",
+      "price": "500.00",
+      "mrp": "700.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 12W Surface Spot light WW White",
+      "img": "Ecolink_12W Surface Spot light WW White.jpg",
+      "category": "Lighting",
+      "price": "700.00",
+      "mrp": "900.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 0.5W Led bulb white",
+      "img": "Ecolink_0.5W Led bulb white.jpg",
+      "category": "Lighting",
+      "price": "25000.00",
+      "mrp": "26000.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 0.5W Led bulb pink",
+      "img": "Ecolink_0.5W Led bulb pink.jpg",
+      "category": "Lighting",
+      "price": "25000.00",
+      "mrp": "26000.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 0.5W Led bulb red",
+      "img": "Ecolink_0.5W Led bulb red.webp",
+      "category": "Lighting",
+      "price": "25000.00",
+      "mrp": "26000.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    },
+    {
+      "name": "Ecolink 0.5W Led bulb blue",
+      "img": "Ecolink_0.5W Led bulb blue.webp",
+      "category": "Lighting",
+      "price": "25000.00",
+      "mrp": "26000.00",
+      "city": "rudrapur",
+      "description": "Premium Aluminium Body Uniform Brightness High Operating Voltage Range - 160V-360V Surge Protection upto 2.5kV BIS Approved",
+      "company": "Ecolink"
+    }
+  ]
