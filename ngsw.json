@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1710869296584,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-IBBBKY2W.js",
+        "/manifest.webmanifest",
+        "/polyfills-RT5I6R6G.js",
+        "/styles-MDWDXFHP.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/12.png",
+        "/assets/img/catering.jpg",
+        "/assets/img/decorators.jpg",
+        "/assets/img/delhi_bg.jpg",
+        "/assets/img/event-planner.jpg",
+        "/assets/img/groom-service.jpg",
+        "/assets/img/hotel.jpg",
+        "/assets/img/interior.jpg",
+        "/assets/img/interior2.jpg",
+        "/assets/img/jre-8u401-macosx-aarch64.dmg",
+        "/assets/img/logo.jpeg",
+        "/assets/img/logo.jpg",
+        "/assets/img/make-up-artist.jpg",
+        "/assets/img/mehandi-artist.jpg",
+        "/assets/img/mehndi-service.jpg",
+        "/assets/img/photography.jpg",
+        "/assets/img/vicky.jpg",
+        "/assets/img/wedding1.jpg",
+        "/media/Inter-italic.var-SWFAXF2C.woff2",
+        "/media/Inter-roman.var-WIJJYAE4.woff2",
+        "/media/color-3LUHUBGQ.png",
+        "/media/delhi_bg-6DKIMVZU.jpg",
+        "/media/hue-RMMBQOAC.png",
+        "/media/primeicons-7C46RJHE.woff",
+        "/media/primeicons-AEJFRHCW.ttf",
+        "/media/primeicons-SQ5LETCD.svg",
+        "/media/primeicons-XI7ZC3P3.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/assets/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/assets/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/assets/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/assets/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/assets/img/12.png": "49982cb1ba14a1abf4736e6ed1909cf05a050e43",
+    "/assets/img/catering.jpg": "25f380eb17cc036d19540574a8aa601e0395f345",
+    "/assets/img/decorators.jpg": "85f6deeb93c115f18469f49f40bb818629e06a27",
+    "/assets/img/delhi_bg.jpg": "1c330fd2d5f2566629d69699ac35bac281a711ae",
+    "/assets/img/event-planner.jpg": "4fa98d16a79a68e9158cda10fa37658331d37d7a",
+    "/assets/img/groom-service.jpg": "447bac99c7cdb74db62bdb889963854a7ab5f5a1",
+    "/assets/img/hotel.jpg": "55547fbeb882ed1090b1e56b92d9a70aae634625",
+    "/assets/img/interior.jpg": "431c603b7660944b3f5c7abf01e2f50ee9884ad1",
+    "/assets/img/interior2.jpg": "76c63f7aed3e7d05f44c3853fa381ae774b8698d",
+    "/assets/img/jre-8u401-macosx-aarch64.dmg": "c782dd85453cb8c4c6b24309e1bff90d9e560454",
+    "/assets/img/logo.jpeg": "b3bc145e5c99911086d6cddddcd8c909edd136db",
+    "/assets/img/logo.jpg": "3aafbf38e65198328721c62ef08210905c650821",
+    "/assets/img/make-up-artist.jpg": "2209d0599f3acc99ad161ee58f766623e33b09b7",
+    "/assets/img/mehandi-artist.jpg": "be909d368e98c0c41a5c02037215732da3f2b66d",
+    "/assets/img/mehndi-service.jpg": "3cf0f22279284684ec2c40ee45f1bb0a7146fecd",
+    "/assets/img/photography.jpg": "58d7e964dc09a4e35a65d678844eee877efcbf0c",
+    "/assets/img/vicky.jpg": "e0d6cfe018ad8abc63ef25e0a1e4aeb16a2d023c",
+    "/assets/img/wedding1.jpg": "0f08083f3b470cacce5523c62ff9dd039dfee2d5",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/index.html": "58b2770d8682b1f8256d107d9e964fa119fa8ca8",
+    "/main-IBBBKY2W.js": "99f656fd664f6a45a7567623554de02ed8065d68",
+    "/manifest.webmanifest": "da7b41d7a30fa731846ba336ad423b644b9c8e4c",
+    "/media/Inter-italic.var-SWFAXF2C.woff2": "6f20a046917bf86d4b6cc29c4e2515bd64d2cb9b",
+    "/media/Inter-roman.var-WIJJYAE4.woff2": "7a2602d2ebb08ce895e33addb6fe595f1029431e",
+    "/media/color-3LUHUBGQ.png": "ff4c4bcb2207891b292f544edb4da9d2df5d45cf",
+    "/media/delhi_bg-6DKIMVZU.jpg": "1c330fd2d5f2566629d69699ac35bac281a711ae",
+    "/media/hue-RMMBQOAC.png": "f81ae627637a684614aa726e206c73ce099a01fd",
+    "/media/primeicons-7C46RJHE.woff": "b1648b50be13350fde8b5d9a6fe78354ddcc43e4",
+    "/media/primeicons-AEJFRHCW.ttf": "ceeb46d594fde5cc507cdf8b70e38e78fe47653c",
+    "/media/primeicons-SQ5LETCD.svg": "d3332a45242b8f6edbf3f3c7176a280e7edcd961",
+    "/media/primeicons-XI7ZC3P3.woff2": "55a4b2a5f02e362405d8d874903af0b5f6a6c15d",
+    "/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
+    "/styles-MDWDXFHP.css": "6eb24e721d0ab8c90f3a3f2338190234f7ee3672"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
